@@ -3,14 +3,13 @@
 - Development by python, R, SQL
 - Theoretical understanding statistics, machine learning.
 - Practical Application of above technology
-- Negotiation with client.
+- Negotiation with client
 
 ## Feature
-- Experience to develop system 
-  - about machine learning 1+ year.
-  - on AWS and Azure
+- Experience to develop system about machine learning 1+ year.
+- Development on AWS and Azure.
 - Reporting poc about machine learning technology rapidly.
-- Basic Knowledge of Data Base
+- Basic Knowledge of Data Base.
 
 
 ## Career 
