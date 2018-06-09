@@ -1,6 +1,4 @@
-## About This Page
-This page is resume about myself
-
+# Summary 
 ## Capability 
 - Development by python, R, SQL
 - Theoretical understanding statistics, machine learning.
@@ -20,3 +18,8 @@ This page is resume about myself
 - 2017/10 ~ 
   Artificial Intelligent Engineer at [9DW corporation](https://9dw.jp/)
   
+## Social
+- [facebook](https://www.facebook.com/hayata.yamamoto)
+- [linkedin](https://www.linkedin.com/in/hayata-yamamoto/)
+- [wantedly](https://www.wantedly.com/users/17795847)
+- [github](https://github.com/hayata-yamamoto)
