@@ -6,8 +6,11 @@
 - Negotiation with client.
 
 ## Feature
-- Experience to develop system about machine learning 1+ year.
+- Experience to develop system 
+  - about machine learning 1+ year.
+  - on AWS and Azure
 - Reporting poc about machine learning technology rapidly.
+- Basic Knowledge of Data Base
 
 
 ## Career 
