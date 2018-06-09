@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## About This Page
+This page is resume about myself
 
-You can use the [editor on GitHub](https://github.com/hayata-yamamoto/CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Capability 
+- Development by python, R, SQL
+- Theoretical understanding statistics, machine learning.
+- Practical Application of above technology
+- Negotiation with client.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Feature
+- Experience to develop system about machine learning 1+ year.
+- Reporting poc about machine learning technology rapidly.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hayata-yamamoto/CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Career 
+- 2017/03 ~ 2017/07
+  Sales internship at [freee K.K.](https://corp.freee.co.jp/)
+- 2017/08 ~ 2017/10 
+  Machine Learning Engineer at [freee K.K.](https://corp.freee.co.jp/)
+- 2017/10 ~ 
+  Artificial Intelligent Engineer at [9DW corporation](https://9dw.jp/)
+  
