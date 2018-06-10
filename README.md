@@ -14,7 +14,7 @@
 
 ## Career 
 - 2017/03 ~ 2017/07
-  Closing Sales Internship at [freee K.K.](https://corp.freee.co.jp/)
+  Closing Sales Internship at [freee K.K.](https://corp.freee.co.jp/) *Best Internship Award
 - 2017/08 ~ 2017/10 
   Machine Learning Engineer Internship at [freee K.K.](https://corp.freee.co.jp/)
 - 2017/10 ~ 
@@ -24,4 +24,3 @@
 - [facebook](https://www.facebook.com/hayata.yamamoto)
 - [linkedin](https://www.linkedin.com/in/hayata-yamamoto/)
 - [wantedly](https://www.wantedly.com/users/17795847)
-- [github](https://github.com/hayata-yamamoto)
