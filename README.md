@@ -6,11 +6,11 @@
 - Negotiation with client
 
 ## Feature
-- Experience to develop system about machine learning 1+ year.
+- Experience to develop system about machine learning.
 - Development on AWS and Azure.
+- Observation on redash.
 - Reporting poc about machine learning technology rapidly.
 - Basic Knowledge of Data Base.
-
 
 ## Career 
 - 2017/03 ~ 2017/07
