@@ -1,24 +1,19 @@
 # Summary 
 ## Capability 
+- Negatiation to client.
 - Development by python, R, SQL
+- Basic knowledge about web frame work.
 - Theoretical understanding statistics, machine learning.
-- Practical Application of above technology
-- Negotiation with client
-
-## Feature
-- Experience to develop system about machine learning.
-- Development on AWS and Azure.
-- Observation on redash.
-- Reporting poc about machine learning technology rapidly.
-- Basic Knowledge of Data Base.
 
 ## Career 
 - 2017/03 ~ 2017/07
   Closing Sales Internship at [freee K.K.](https://corp.freee.co.jp/) *Best Internship Award
 - 2017/08 ~ 2017/10 
   Machine Learning Engineer Internship at [freee K.K.](https://corp.freee.co.jp/)
-- 2017/10 ~ 
+- 2017/10 ~ 2018/09
   Artificial Intelligent Engineer at [9DW corporation](https://9dw.jp/)
+- 2018/09 ~
+  Data Scientist at [RareJob Inc.](https://www.rarejob.com/)
   
 ## Social
 - [facebook](https://www.facebook.com/hayata.yamamoto)
