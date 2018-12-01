@@ -1,8 +1,13 @@
 # Summary 
 ## Capability 
-- Negatiation to client.
-- Development by python, R, SQL
-- Basic knowledge about web frame work.
+- Experience of sales via CRM, salesforce. 
+- Client handling. 
+- Scheduling development about machine learning.
+
+- Dashboard making by redash, google data studio and so on. 
+- Development by Python, R, SQL and BigQuery
+- Experience of Django
+
 - Theoretical understanding statistics, machine learning.
 
 ## Career 
