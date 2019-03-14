@@ -1,7 +1,5 @@
-# 日本語
-## キャリア
+# Summary
 
-# English
 ## Career 
 ### Inside Sales Internship @[freee K.K.](https://corp.freee.co.jp/) (2017/03 ~ 2017/07)
   - I've got the best internship award.
