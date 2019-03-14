@@ -2,6 +2,7 @@
 
 ## Career 
 ### (internship) Inside Sales @[freee K.K.](https://corp.freee.co.jp/) (2017/03 ~ 2017/07)
+  - FinTech super company.
   - I've got the best internship award.
   - Closing sales w/ Salesforce.
   
@@ -20,6 +21,7 @@
     - Production development by Django on Azure
 
 ### Data Scientist @[RareJob Inc.](https://www.rarejob.com/) (2018/09 ~ Present)
+  - EdTech company.
   - Built data science team
   - Tasks
     - Team Buidling and Management
