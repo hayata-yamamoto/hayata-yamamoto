@@ -1,4 +1,11 @@
 # Resume
+## About 
+I'm a Practical Data Scienctist. My strength is to have knowledge and experiments about Sales, Engineering and Science. 
+
+## Belief
+- To be a supportive data scientist to different roles
+- To make data science easy 
+- To encourage people to understand and improve themselves via data science.
 
 ## Career 
 ### (internship) Inside Sales @[freee K.K.](https://corp.freee.co.jp/) (2017/03 ~ 2017/07)
