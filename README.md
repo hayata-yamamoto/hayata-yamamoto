@@ -30,10 +30,12 @@
     
 ## Contracts
 ### Klavis R&D project (2018/06 ~ 2018/09)
+  - Klavis is splendid FinTech company. 
   - Tasks 
     - Text classification
     
 ### Aidemy Technical Support (2019/01 ~ Present)
+  - Aidemy is promissing EdTech company.
   - Tasks
     - technical supporting 
     - counseling 
