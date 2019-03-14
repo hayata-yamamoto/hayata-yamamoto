@@ -37,12 +37,12 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
     - Consult project related to data.
     
 ## Contracts
-### Klavis R&D project (2018/06 ~ 2018/09)
+### Klavis / R&D project (2018/06 ~ 2018/09)
   - Klavis is splendid FinTech company. 
   - Tasks 
     - Text classification
     
-### Aidemy Technical Support (2019/01 ~ Present)
+### Aidemy / Technical Support (2019/01 ~ Present)
   - Aidemy is promissing EdTech company.
   - Tasks
     - technical supporting 
