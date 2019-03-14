@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 
 title: Resume
-google_analytics: 
+description: This page is resume of hayata-yamamoto
+google_analytics: UA-121051089-5
+logo: https://github.com/hayata-yamamoto/Resume/blob/master/hayata_logo_2500.png
