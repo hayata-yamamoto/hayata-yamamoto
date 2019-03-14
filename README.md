@@ -1,26 +1,42 @@
-# Summary 
-## Capability 
-- Experience of sales via CRM, salesforce. 
-- Client handling. 
-- Scheduling development about machine learning.
+# 日本語
+## キャリア
 
-- Dashboard making by redash, google data studio and so on. 
-- Development by Python, R, SQL and BigQuery
-- Experience of Django
-
-- Theoretical understanding statistics, machine learning.
-
+# English
 ## Career 
-- 2017/03 ~ 2017/07
-  Closing Sales Internship at [freee K.K.](https://corp.freee.co.jp/) *Best Internship Award
-- 2017/08 ~ 2017/10 
-  Machine Learning Engineer Internship at [freee K.K.](https://corp.freee.co.jp/)
-- 2017/10 ~ 2018/09
-  Artificial Intelligent Engineer at [9DW corporation](https://9dw.jp/)
-- 2018/09 ~
-  Data Scientist at [RareJob Inc.](https://www.rarejob.com/)
+### Inside Sales Internship @[freee K.K.](https://corp.freee.co.jp/) (2017/03 ~ 2017/07)
+  - I've got the best internship award.
+  - Closing sales w/ Salesforce.
   
-## Social
-- [facebook](https://www.facebook.com/hayata.yamamoto)
-- [linkedin](https://www.linkedin.com/in/hayata-yamamoto/)
-- [wantedly](https://www.wantedly.com/users/17795847)
+### Machine Learing Engineer @[freee K.K.](https://corp.freee.co.jp/) (2017/08 ~ 2017/10)
+  - joined R&D project
+  - Tasks
+    - Text classification by python 
+    - Data visualization by redash (SQL)
+
+### AI Engineer @[9DW corporation](https://9dw.jp/) (2017/10 ~ 2018/09)
+  - R&D Startup
+  - Works
+    - Fashion image scoring engine
+    - Medical MRI calssification and annomaly detection
+    - Optimization by genetic algorithm
+    - Production development by Django on Azure
+
+### Data Scientist @[RareJob Inc.](https://www.rarejob.com/) (2018/09 ~ Present)
+  - Built data science team
+  - Tasks
+    - Team Buidling and Management
+    - Analyze production data
+    - Design table schema on DWH
+    - Develop machine learning engine
+    - Consult project related to data.
+    
+## Contracts
+### Klavis R&D project (2018/06 ~ 2018/09)
+  - Tasks 
+    - Text classification
+    
+### Aidemy Technical Support (2019/01 ~ Present)
+  - Tasks
+    - technical supporting 
+    - counseling 
+    - career support 
