@@ -1,11 +1,11 @@
 # Resume
 
 ## Career 
-### Inside Sales (internship) @[freee K.K.](https://corp.freee.co.jp/) (2017/03 ~ 2017/07)
+### (internship) Inside Sales @[freee K.K.](https://corp.freee.co.jp/) (2017/03 ~ 2017/07)
   - I've got the best internship award.
   - Closing sales w/ Salesforce.
   
-### Machine Learing Engineer (internship) @[freee K.K.](https://corp.freee.co.jp/) (2017/08 ~ 2017/10)
+### (internship) Machine Learing Engineer @[freee K.K.](https://corp.freee.co.jp/) (2017/08 ~ 2017/10)
   - joined R&D project
   - Tasks
     - Text classification by python 
