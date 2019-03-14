@@ -1,4 +1,4 @@
-# Summary
+# Resume
 
 ## Career 
 ### Inside Sales Internship @[freee K.K.](https://corp.freee.co.jp/) (2017/03 ~ 2017/07)
