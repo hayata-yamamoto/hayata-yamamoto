@@ -26,7 +26,7 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
     - Optimization by genetic algorithm
     - Production development by Django on Azure
 
-### Data Scientist @[RareJob Inc.](https://www.rarejob.com/) (2018/09 ~ Present)
+### Data Scientist @[RareJob Inc.](https://www.rarejob.com/) (2018/09 ~ Now)
   - EdTech company.
   - Built data science team
   - Tasks
@@ -42,7 +42,7 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
   - Tasks 
     - Text classification
     
-### Aidemy / Technical Support (2019/01 ~ Present)
+### Aidemy / Technical Support (2019/01 ~ Now)
   - Aidemy is promissing EdTech company.
   - Tasks
     - technical supporting 
