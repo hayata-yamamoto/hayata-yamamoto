@@ -34,7 +34,10 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 ### (internship) Inside Sales @[freee K.K.](https://corp.freee.co.jp/) (2017/03 ~ 2017/07)
   - FinTech super company.
   - **Best internship award**
-  - Closing sales w/ Salesforce.
+  - Tasks
+    - Closing Sales
+    - On-boarding
+    - Dashboarding by salesforce
     
 ## Contracts
 ### Aidemy / Technical Support (2019/01 ~ Now)
