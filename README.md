@@ -52,6 +52,10 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
   - Tasks 
     - Text classification
     
+## Background
+  - Chiba University, Law, Politics and Econmics Depertment / being absent from 2018/09
+    - Major: Bayesian Econometrics, Machine Learning
+    
 ## Appendix
   - Podcast 
     - [Meets.fm](https://anchor.fm/meetsfm)
