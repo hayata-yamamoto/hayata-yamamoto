@@ -52,3 +52,10 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
   - Tasks 
     - Text classification
     
+## Appendix
+  - Podcast 
+    - [Meets.fm](https://anchor.fm/meetsfm)
+    - [BookingTalk](https://anchor.fm/booking-talk) (coming soon)
+  - [note](https://note.mu/hayata_yamamoto)
+  - [Qiita](https://qiita.com/hayata-yamamoto)
+  - [Speaker Deck](https://speakerdeck.com/hayata_yamamoto)
