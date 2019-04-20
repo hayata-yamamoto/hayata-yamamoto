@@ -60,6 +60,8 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
   - Podcast
     - [Meets.fm](https://anchor.fm/meetsfm)
     - [BookingTalk](https://anchor.fm/booking-talk)
+  - [wantedly](https://www.wantedly.com/users/99972307)
+  - [facebook](https://www.facebook.com/hayata.yamamoto)
   - [note](https://note.mu/hayata_yamamoto)
   - [Qiita](https://qiita.com/hayata-yamamoto)
   - [Speaker Deck](https://speakerdeck.com/hayata_yamamoto)
