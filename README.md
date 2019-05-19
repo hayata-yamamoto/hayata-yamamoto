@@ -11,6 +11,10 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 - Bayesian Statistics
 - Machine Learning
 
+## Skills
+- Python/SQL
+- Django/FastAPI
+
 ## Social Networks
   - [wantedly](https://www.wantedly.com/users/99972307)
   - [facebook](https://www.facebook.com/hayata.yamamoto)
