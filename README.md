@@ -6,6 +6,15 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 - To make data science easy 
 - To encourage people to understand and improve themselves via data science.
 
+## Background
+  - Chiba University, Law, Politics and Econmics Depertment / being absent from 2018/09
+    - Major: Bayesian Econometrics, Machine Learning
+    
+## Social Networks
+  - [wantedly](https://www.wantedly.com/users/99972307)
+  - [facebook](https://www.facebook.com/hayata.yamamoto)
+  - [Twitter](https://www.twitter.com/hayta_yamamoto)
+
 ## Career 
 ### Data Scientist @[RareJob Inc.](https://www.rarejob.com/) (2018/09 ~ Now)
   - EdTech company.
@@ -63,14 +72,3 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
   - Inperial Palace Cleaning (2018)
   - Charity Santa @Charity Santa, NPO org (2014, 2015, 2016)
   - student staff @dot-jp, NPO org. (2015/04 ~ 2015/09)
-  
-    
-## Background
-  - Chiba University, Law, Politics and Econmics Depertment / being absent from 2018/09
-    - Major: Bayesian Econometrics, Machine Learning
-    
-## Social Networks
-  - [wantedly](https://www.wantedly.com/users/99972307)
-  - [facebook](https://www.facebook.com/hayata.yamamoto)
-  - [Twitter](https://www.twitter.com/hayta_yamamoto)
-  
