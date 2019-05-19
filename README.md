@@ -7,9 +7,10 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 - To encourage people to understand and improve themselves via data science.
 
 ## Background
-  - Chiba University, Law, Politics and Econmics Depertment / being absent from 2018/09
-    - Major: Bayesian Econometrics, Machine Learning
-    
+- Econometrics
+- Bayesian Statistics
+- Machine Learning
+
 ## Social Networks
   - [wantedly](https://www.wantedly.com/users/99972307)
   - [facebook](https://www.facebook.com/hayata.yamamoto)
