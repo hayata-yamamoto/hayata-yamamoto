@@ -16,14 +16,18 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 - Django/FastAPI
 
 ## Social Networks
-  - [wantedly](https://www.wantedly.com/users/99972307)
-  - [facebook](https://www.facebook.com/hayata.yamamoto)
-  - [Twitter](https://www.twitter.com/hayta_yamamoto)
+- [Wantedly](https://www.wantedly.com/users/99972307)
+- [facebook](https://www.facebook.com/hayata.yamamoto)
+- [Twitter](https://www.twitter.com/hayta_yamamoto)
+  
+## Media 
+- [Business Insider Japan / ｢英会話はデータ戦略で変わる｣レアジョブがデータサイエンティスト採用を拡大する理由](https://www.businessinsider.jp/post-179154)
+- [RareJob Appeal / 【データから見る英会話】日本人はネイティブと比べて頷きが多い話](https://appeal.rarejob.co.jp/2018/11/09/5034/)
 
 ## Career 
 ### Data Scientist @[RareJob Inc.](https://www.rarejob.com/) (2018/09 ~ Now)
   - EdTech company.
-  - Built data science team
+  - Built data science team [link](https://www.rarejob.co.jp/lab/)
   - Tasks
     - Team Buidling and Management
     - Analyze production data
