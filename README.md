@@ -10,7 +10,7 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 ### Data Scientist @[RareJob Inc.](https://www.rarejob.com/) (2018/09 ~ Now)
   - EdTech company.
   - Built data science team
-  - Tasks
+  - Works
     - Team Buidling and Management
     - Analyze production data
     - Design table schema on DWH
@@ -27,14 +27,14 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 
 ### (internship) Machine Learing Engineer @[freee K.K.](https://corp.freee.co.jp/) (2017/08 ~ 2017/10)
   - joined R&D project
-  - Tasks
+  - Works
     - Text classification by python 
     - Data visualization by redash (SQL)
 
 ### (internship) Inside Sales @[freee K.K.](https://corp.freee.co.jp/) (2017/03 ~ 2017/07)
   - FinTech super company.
   - **Best internship award**
-  - Tasks
+  - Works
     - Closing Sales
     - On-boarding
     - Dashboarding by salesforce
@@ -42,14 +42,14 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 ## Contracts
 ### Aidemy / Technical Support (2019/01 ~ Now)
   - Aidemy is promissing EdTech company.
-  - Tasks
+  - Works
     - technical supporting 
     - counseling 
     - career support 
 
 ### Klavis / R&D project (2018/06 ~ 2018/09)
   - Klavis is splendid FinTech company. 
-  - Tasks 
+  - Works
     - Text classification
     
 ## Background
