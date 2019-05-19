@@ -78,6 +78,5 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 - [Qiita](https://qiita.com/hayata-yamamoto)
 - [Speaker Deck](https://speakerdeck.com/hayata_yamamoto)
 - Volunteers 
-  - Inperial Palace Cleaning (2018)
   - Charity Santa @Charity Santa, NPO org (2014, 2015, 2016)
   - student staff @dot-jp, NPO org. (2015/04 ~ 2015/09)
