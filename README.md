@@ -33,7 +33,7 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 ## Career 
 ### Data Scientist @[RareJob Inc.](https://www.rarejob.com/) (2018/09 ~ Now)
   - EdTech company.
-  - Built data science team https://www.rarejob.co.jp/lab/
+  - Chief Data Scientist at [EdTech Lab](https://www.rarejob.co.jp/lab/)
   - Tasks
     - Team Buidling and Management
     - Analyze production data
