@@ -22,7 +22,12 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
   
 ## Media 
 - [Business Insider Japan / ｢英会話はデータ戦略で変わる｣レアジョブがデータサイエンティスト採用を拡大する理由](https://www.businessinsider.jp/post-179154)
+
+## Articles
 - [RareJob Appeal / 【データから見る英会話】日本人はネイティブと比べて頷きが多い話](https://appeal.rarejob.co.jp/2018/11/09/5034/)
+- [RareJob Appeal / 【DMPで教育の未来を描く。「課題だらけ」の日々を乗り越えたチームが打つ、次の一手とは(前編)】](https://appeal.rarejob.co.jp/2019/07/09/5936/)
+- [RareJob Appeal / 【DMPで教育の未来を描く。「課題だらけ」の日々を乗り越えたチームが打つ、次の一手とは(後編)】](https://appeal.rarejob.co.jp/2019/07/09/5960/)
+- [RareJob TechBlog / 【分析チームの開発スタイルについて】](https://rarejob-tech-dept.hatenablog.com/entry/2019/07/09/190000)
 
 ## Career 
 ### Data Scientist @[RareJob Inc.](https://www.rarejob.com/) (2018/09 ~ Now)
