@@ -33,7 +33,7 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 ## Career 
 ### Data Scientist @[RareJob Inc.](https://www.rarejob.com/) (2018/09 ~ Now)
   - EdTech company.
-  - Built data science team [link](https://www.rarejob.co.jp/lab/)
+  - Built data science team https://www.rarejob.co.jp/lab/
   - Tasks
     - Team Buidling and Management
     - Analyze production data
@@ -64,7 +64,7 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
     - Dashboarding by salesforce
     
 ## Works
-### Aidemy / Technical Support (2019/01 ~ Now)
+### Aidemy / Technical Support (2019/01 ~ 2019/04)
   - Aidemy is promissing EdTech company.
   - Tasks
     - technical supporting 
