@@ -12,23 +12,23 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 - Machine Learning
 
 ## Skills
-- Python/SQL
-- Django/FastAPI
+- Python : Intermediate
+  - Natural Language Processing (NLTK, SpaCy, StanfordNLP, CoreNLP)
+  - Image Processing (OpenCV)
+  - Deep Learing Frameworks (TensorFlow, PyToch, Chainer)
+  - Web Frameworks (Django, FastAPI)
+  - Data Engineering (Airflow)
+- SQL
+  - MySQL
+  - BigQuery
+- Platform
+  - AWS
+  - GCP
+  - Azure (limited)
+- Sales
+  - Inside Sales
+  - Salesforce
 
-## Social Networks
-- [Wantedly](https://www.wantedly.com/users/99972307)
-- [facebook](https://www.facebook.com/hayata.yamamoto)
-- [Twitter](https://www.twitter.com/hayata_yamamoto)
-  
-## Media 
-- [Business Insider Japan / ｢英会話はデータ戦略で変わる｣レアジョブがデータサイエンティスト採用を拡大する理由](https://www.businessinsider.jp/post-179154)
-
-## Articles
-### RareJob 
-- [【データから見る英会話】日本人はネイティブと比べて頷きが多い話](https://appeal.rarejob.co.jp/2018/11/09/5034/)
-- [DMPで教育の未来を描く。「課題だらけ」の日々を乗り越えたチームが打つ、次の一手とは(前編)](https://appeal.rarejob.co.jp/2019/07/09/5936/)
-- [DMPで教育の未来を描く。「課題だらけ」の日々を乗り越えたチームが打つ、次の一手とは(後編)](https://appeal.rarejob.co.jp/2019/07/09/5960/)
-- [分析チームの開発スタイルについて](https://rarejob-tech-dept.hatenablog.com/entry/2019/07/09/190000)
 
 ## Career 
 ### Data Scientist @[RareJob Inc.](https://www.rarejob.com/) (2018/09 ~ Now)
@@ -86,3 +86,20 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 - Volunteers 
   - Charity Santa @Charity Santa, NPO org (2014, 2015, 2016)
   - student staff @dot-jp, NPO org. (2015/04 ~ 2015/09)
+
+## Social Networks
+- [Wantedly](https://www.wantedly.com/users/99972307)
+- [facebook](https://www.facebook.com/hayata.yamamoto)
+- [Twitter](https://www.twitter.com/hayata_yamamoto)
+  
+## Media 
+- [Business Insider Japan / ｢英会話はデータ戦略で変わる｣レアジョブがデータサイエンティスト採用を拡大する理由](https://www.businessinsider.jp/post-179154)
+
+## Articles
+### RareJob 
+- [【データから見る英会話】日本人はネイティブと比べて頷きが多い話](https://appeal.rarejob.co.jp/2018/11/09/5034/)
+- [DMPで教育の未来を描く。「課題だらけ」の日々を乗り越えたチームが打つ、次の一手とは(前編)](https://appeal.rarejob.co.jp/2019/07/09/5936/)
+- [DMPで教育の未来を描く。「課題だらけ」の日々を乗り越えたチームが打つ、次の一手とは(後編)](https://appeal.rarejob.co.jp/2019/07/09/5960/)
+- [分析チームの開発スタイルについて](https://rarejob-tech-dept.hatenablog.com/entry/2019/07/09/190000)
+
+
