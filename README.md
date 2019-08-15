@@ -12,9 +12,11 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 - Machine Learning
 
 ## Skills
-- Python : Intermediate
+- Python 
+  - Statistical Modeling (statsmodels, sklearn, scipy)
   - Natural Language Processing (NLTK, SpaCy, StanfordNLP, CoreNLP)
   - Image Processing (OpenCV)
+  - Genetic Algorithm 
   - Deep Learing Frameworks (TensorFlow, PyToch, Chainer)
   - Web Frameworks (Django, FastAPI)
   - Data Engineering (Airflow)
@@ -22,8 +24,8 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
   - MySQL
   - BigQuery
 - Platform
-  - AWS
-  - GCP
+  - AWS (limited)
+  - GCP 
   - Azure (limited)
 - Sales
   - Inside Sales
@@ -41,7 +43,8 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
     - Develop machine learning engine
     - Consult project related to data.
 
-### AI Engineer @[9DW corporation](https://9dw.jp/) (2017/10 ~ 2018/09)
+### AI Engineer @[9DW corporation](https://9dw.jp/) 
+  - 2017/10 ~ 2018/09
   - R&D Startup
   - Tasks
     - Fashion image scoring engine
@@ -49,13 +52,15 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
     - Optimization by genetic algorithm
     - Production development by Django on Azure
 
-### (internship) Machine Learing Engineer @[freee K.K.](https://corp.freee.co.jp/) (2017/08 ~ 2017/10)
+### (internship) Machine Learing Engineer @[freee K.K.](https://corp.freee.co.jp/) 
+  - 2017/08 ~ 2017/10
   - joined R&D project
   - Tasks
     - Text classification by python 
     - Data visualization by redash (SQL)
 
-### (internship) Inside Sales @[freee K.K.](https://corp.freee.co.jp/) (2017/03 ~ 2017/07)
+### (internship) Inside Sales @[freee K.K.](https://corp.freee.co.jp/) 
+  - 2017/03 ~ 2017/07
   - FinTech super company.
   - **Best internship award**
   - Tasks
@@ -64,15 +69,15 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
     - Dashboarding by salesforce
     
 ## Works
-### Aidemy / Technical Support (2019/01 ~ 2019/04)
-  - Aidemy is promissing EdTech company.
+### Aidemy / Technical Support 
+  - 2019/01 ~ 2019/04
   - Tasks
     - technical supporting 
     - counseling 
     - career support 
 
-### Klavis / R&D project (2018/06 ~ 2018/09)
-  - Klavis is splendid FinTech company. 
+### Klavis / R&D project
+  - 2018/06 ~ 2018/09
   - Tasks
     - Text classification
     
@@ -80,14 +85,14 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 - Podcasts
   - [Meets.fm](https://anchor.fm/meetsfm)
   - [BookingTalk](https://anchor.fm/booking-talk)
-- [note](https://note.mu/hayata_yamamoto)
-- [Qiita](https://qiita.com/hayata-yamamoto)
-- [Speaker Deck](https://speakerdeck.com/hayata_yamamoto)
 - Volunteers 
   - Charity Santa @Charity Santa, NPO org (2014, 2015, 2016)
   - student staff @dot-jp, NPO org. (2015/04 ~ 2015/09)
 
 ## Social Networks
+- [note](https://note.mu/hayata_yamamoto)
+- [Qiita](https://qiita.com/hayata-yamamoto)
+- [Speaker Deck](https://speakerdeck.com/hayata_yamamoto)
 - [Wantedly](https://www.wantedly.com/users/99972307)
 - [facebook](https://www.facebook.com/hayata.yamamoto)
 - [Twitter](https://www.twitter.com/hayata_yamamoto)
