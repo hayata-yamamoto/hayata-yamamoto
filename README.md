@@ -96,7 +96,8 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 - [Wantedly](https://www.wantedly.com/users/99972307)
 - [facebook](https://www.facebook.com/hayata.yamamoto)
 - [Twitter](https://www.twitter.com/hayata_yamamoto)
-  
+- [hatena](https://hayata-yamamoto.hatenablog.com)
+
 ## Media 
 - [Business Insider Japan / ｢英会話はデータ戦略で変わる｣レアジョブがデータサイエンティスト採用を拡大する理由](https://www.businessinsider.jp/post-179154)
 
