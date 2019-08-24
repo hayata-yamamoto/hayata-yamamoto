@@ -34,7 +34,6 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 
 ## Career 
 ### Data Scientist @[RareJob Inc.](https://www.rarejob.com/) (2018/09 ~ Now)
-  - EdTech company.
   - Chief Data Scientist at [EdTech Lab](https://www.rarejob.co.jp/lab/)
   - Tasks
     - Team Buidling and Management
@@ -45,7 +44,6 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 
 ### AI Engineer @[9DW corporation](https://9dw.jp/) 
   - 2017/10 ~ 2018/09
-  - R&D Startup
   - Tasks
     - Fashion image scoring engine
     - Medical MRI calssification and annomaly detection
@@ -54,29 +52,27 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 
 ### (internship) Machine Learing Engineer @[freee K.K.](https://corp.freee.co.jp/) 
   - 2017/08 ~ 2017/10
-  - joined R&D project
   - Tasks
     - Text classification by python 
     - Data visualization by redash (SQL)
 
 ### (internship) Inside Sales @[freee K.K.](https://corp.freee.co.jp/) 
   - 2017/03 ~ 2017/07
-  - FinTech super company.
-  - **Best internship award**
+  - **Got the best internship award**
   - Tasks
     - Closing Sales
     - On-boarding
     - Dashboarding by salesforce
     
 ## Works
-### Aidemy / Technical Support 
+### Technical Support @[Aidemy](https://aidemy.net/) 
   - 2019/01 ~ 2019/04
   - Tasks
     - technical supporting 
     - counseling 
     - career support 
 
-### Klavis / R&D project
+### Machine Learning Engineer @Klavis
   - 2018/06 ~ 2018/09
   - Tasks
     - Text classification
@@ -90,6 +86,8 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
   - student staff @dot-jp, NPO org. (2015/04 ~ 2015/09)
 
 ## Social Networks
+- [Lapras](https://lapras.com/public/IVBOT6Y)
+- [LinkedIn](www.linkedin.com/in/hayata-yamamoto-b385a018a)
 - [note](https://note.mu/hayata_yamamoto)
 - [Qiita](https://qiita.com/hayata-yamamoto)
 - [Speaker Deck](https://speakerdeck.com/hayata_yamamoto)
