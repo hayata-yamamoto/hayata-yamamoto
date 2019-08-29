@@ -25,7 +25,7 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
   - BigQuery
 - Platform
   - AWS (limited)
-  - GCP 
+  - GCP / Professional Data Engineer Certified
   - Azure (limited)
 - Sales
   - Inside Sales
@@ -96,11 +96,12 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
 - [Twitter](https://www.twitter.com/hayata_yamamoto)
 - [hatena](https://hayata-yamamoto.hatenablog.com)
 
-## Media 
-- [Business Insider Japan / ｢英会話はデータ戦略で変わる｣レアジョブがデータサイエンティスト採用を拡大する理由](https://www.businessinsider.jp/post-179154)
+## Certification 
+- Professional Data Engineer / Google Cloud
 
-## Articles
+## Media 
 ### RareJob 
+- [Business Insider Japan / ｢英会話はデータ戦略で変わる｣レアジョブがデータサイエンティスト採用を拡大する理由](https://www.businessinsider.jp/post-179154)
 - [【データから見る英会話】日本人はネイティブと比べて頷きが多い話](https://appeal.rarejob.co.jp/2018/11/09/5034/)
 - [DMPで教育の未来を描く。「課題だらけ」の日々を乗り越えたチームが打つ、次の一手とは(前編)](https://appeal.rarejob.co.jp/2019/07/09/5936/)
 - [DMPで教育の未来を描く。「課題だらけ」の日々を乗り越えたチームが打つ、次の一手とは(後編)](https://appeal.rarejob.co.jp/2019/07/09/5960/)
