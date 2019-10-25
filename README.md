@@ -1,10 +1,9 @@
 # Resume 
-I'm a Practical Data Scienctist. My strength is to have knowledge and experiments about Sales, Engineering and Science. 
+I'm a Data Scientist at RareJob.inc, Tokyo. Through past works, I'm being involved with NLP tasks.
+My strength is an experience of several roles (sales, customer support and enginner). If you want to contact me, you're able to send message by several tools including facebook, linkedin, twitter and email.
 
 ## Belief
-- To be a supportive data scientist to different roles
-- To make data science easy 
-- To encourage people to understand and improve themselves via data science.
+- create an environment everyone can enjoy data science.
 
 ## Background
 - Econometrics
@@ -17,19 +16,25 @@ I'm a Practical Data Scienctist. My strength is to have knowledge and experiment
   - Natural Language Processing (NLTK, SpaCy, StanfordNLP, CoreNLP)
   - Image Processing (OpenCV)
   - Genetic Algorithm 
-  - Deep Learing Frameworks (TensorFlow, PyToch, Chainer)
-  - Web Frameworks (Django, FastAPI)
-  - Data Engineering (Airflow)
+  - Deep Learing Frameworks (TensorFlow, PyToch, Chainer, Keras)
+  - Web Frameworks (Django, FastAPI, flask)
+  - Data Engineering (Airflow, Cloud DataFlow)
 - SQL
   - MySQL
   - BigQuery
+- Infrastructure
+  - Docker 
+  - Terraform
 - Platform
-  - AWS (limited)
-  - GCP / Professional Data Engineer Certified
+  - AWS
+  - GCP (**Certified Professional Data Engineer**)
   - Azure (limited)
 - Sales
   - Inside Sales
-  - Salesforce
+  - Sales force
+- Business Skills
+  - Management of R&D team 
+  - Collaboration with professors and external professionals
 
 
 ## Career 
