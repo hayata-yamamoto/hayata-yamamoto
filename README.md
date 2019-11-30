@@ -112,5 +112,5 @@ My strength is an experience of several roles (sales, customer support and engin
 - [DMPで教育の未来を描く。「課題だらけ」の日々を乗り越えたチームが打つ、次の一手とは(後編)](https://appeal.rarejob.co.jp/2019/07/09/5960/)
 - [分析チームの開発スタイルについて](https://rarejob-tech-dept.hatenablog.com/entry/2019/07/09/190000)
 - [レアジョブのデータ活用の今とこれから](https://speakerdeck.com/hayata_yamamoto/reaziyobufalsedetahuo-yong-falsejin-tokorekara)
-
+- [Client VPNで分析環境を用意してみた](https://rarejob-tech-dept.hatenablog.com/entry/2019/11/15/190000)
 
