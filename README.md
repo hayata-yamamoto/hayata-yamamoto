@@ -92,7 +92,7 @@ My strength is an experience of several roles (sales, customer support and engin
 
 ## Social Networks
 - [Lapras](https://lapras.com/public/IVBOT6Y)
-- [LinkedIn](www.linkedin.com/in/hayata-yamamoto)
+- [LinkedIn](https://www.linkedin.com/in/hayata-yamamoto)
 - [note](https://note.mu/hayata_yamamoto)
 - [Qiita](https://qiita.com/hayata-yamamoto)
 - [Speaker Deck](https://speakerdeck.com/hayata_yamamoto)
