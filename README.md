@@ -33,7 +33,7 @@ My strength is an experience of several roles (sales, customer support and engin
   - Inside Sales
   - Sales force
 - Business Skills
-  - Management of R&D team 
+  - Management
   - Collaboration with professors and external professionals
 
 
@@ -53,8 +53,7 @@ My strength is an experience of several roles (sales, customer support and engin
     - Fashion image scoring engine
     - Medical MRI calssification and annomaly detection
     - Optimization by genetic algorithm
-    - Production development by Django on Azure
-
+   
 ### (internship) Machine Learing Engineer @[freee K.K.](https://corp.freee.co.jp/) 
   - 2017/08 ~ 2017/10
   - Tasks
