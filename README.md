@@ -1,9 +1,7 @@
 # Resume 
-I'm a Data Scientist at RareJob.inc, Tokyo. Through past works, I'm being involved with NLP tasks.
-My strength is an experience of several roles (sales, customer support and enginner). If you want to contact me, you're able to send message by several tools including facebook, linkedin, twitter and email.
+I'm [hayata yamamoto](https://twitter.com/hayata_yamamoto). My profession is a data scientist at RareJob.inc, Tokyo. 
+Throughout my career, I'm interested in "data". For example, data science, machine learning and data engineering. 
 
-## Belief
-- create an environment everyone can enjoy data science.
 
 ## Background
 - Econometrics
@@ -34,7 +32,7 @@ My strength is an experience of several roles (sales, customer support and engin
   - Sales force
 - Business Skills
   - Management
-  - Collaboration with professors and external professionals
+  - Collaboration with professors
 
 
 ## Career 
