@@ -2,39 +2,6 @@
 I'm [hayata yamamoto](https://twitter.com/hayata_yamamoto). My profession is a data scientist at RareJob.inc, Tokyo. 
 Throughout my career, I'm interested in "data". For example, data science, machine learning and data engineering. 
 
-
-## Background
-- Econometrics
-- Bayesian Statistics
-- Machine Learning
-
-## Skills
-- Python 
-  - Statistical Modeling (statsmodels, sklearn, scipy)
-  - Natural Language Processing (NLTK, SpaCy, StanfordNLP, CoreNLP)
-  - Image Processing (OpenCV)
-  - Genetic Algorithm 
-  - Deep Learing Frameworks (TensorFlow, PyToch, Chainer, Keras)
-  - Web Frameworks (Django, FastAPI, flask)
-  - Data Engineering (Airflow, Cloud DataFlow)
-- SQL
-  - MySQL
-  - BigQuery
-- Infrastructure
-  - Docker 
-  - Terraform
-- Platform
-  - AWS
-  - GCP (**Certified Professional Data Engineer**)
-  - Azure (limited)
-- Sales
-  - Inside Sales
-  - Sales force
-- Business Skills
-  - Management
-  - Collaboration with professors
-
-
 ## Career 
 ### Data Scientist @[RareJob Inc.](https://www.rarejob.com/) (2018/09 ~ Now)
   - Chief Data Scientist at [EdTech Lab](https://www.rarejob.co.jp/lab/)
@@ -65,8 +32,8 @@ Throughout my career, I'm interested in "data". For example, data science, machi
     - Closing Sales
     - On-boarding
     - Dashboarding by salesforce
-    
-## Works
+
+## Contract Working
 ### Technical Support @[Aidemy](https://aidemy.net/) 
   - 2019/01 ~ 2019/04
   - Tasks
@@ -78,6 +45,47 @@ Throughout my career, I'm interested in "data". For example, data science, machi
   - 2018/06 ~ 2018/09
   - Tasks
     - Text classification
+
+
+## Background
+- Econometrics
+- Bayesian Statistics
+- Machine Learning
+
+## Skills
+### Engineering 
+**Python** 
+- Statistics / statsmodels, sklearn, scipy
+- ML / TensorFlow, PyTorch, Chainer, Keras
+- Text / NLTK, SpaCy, StanfordNLP, CoreNLP
+- Image / OpenCV, skimage
+- Algorithm / Genetic Algorithm
+- Web / Django, FastAPI
+- Workflow Engine / Airflow 
+
+**SQL**
+- MySQL
+- BigQuery
+
+**Infrastructure**
+- Docker 
+- Terraform
+
+**Platform**
+- AWS
+- GCP
+- Azure (limited)
+- Terraform Cloud (Private Use)
+
+**CI/CD**
+- CircleCI
+- GitHub Actions (Private Use)
+
+### Non Engineering 
+**Sales**
+- Inside Sales
+- Sales force
+
     
 ## Private Works
 - Podcasts
