@@ -33,20 +33,6 @@ Throughout my career, I'm interested in "data". For example, data science, machi
     - On-boarding
     - Dashboarding by salesforce
 
-## Contract Working
-### Technical Support @[Aidemy](https://aidemy.net/) 
-  - 2019/01 ~ 2019/04
-  - Tasks
-    - technical supporting 
-    - counseling 
-    - career support 
-
-### Machine Learning Engineer @Klavis
-  - 2018/06 ~ 2018/09
-  - Tasks
-    - Text classification
-
-
 ## Background
 - Econometrics
 - Bayesian Statistics
