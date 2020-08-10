@@ -4,7 +4,7 @@
 
 ## Information
 
-- [Career](./Docs/career.md)
-- [Media](./Docs/media.md)
-- [Skills](./Docs/skills.md)
-- [Works](./Docs/works.md)
+- [Career](https://github.com/hayata-yamamoto/hayata-yamamoto/Docs/career.md)
+- [Media](https://github.com/hayata-yamamoto/hayata-yamamoto/Docs/media.md)
+- [Skills](https://github.com/hayata-yamamoto/hayata-yamamoto/Docs/skills.md)
+- [Works](https://github.com/hayata-yamamoto/hayata-yamamoto/Docs/works.md)
