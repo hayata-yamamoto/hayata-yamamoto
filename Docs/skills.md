@@ -1,8 +1,6 @@
 # Skills
 
-## Engineering
-
-Level Scale
+## Level Scale
 
 | Level  | Meaining                                                                                                             |
 | ------ | -------------------------------------------------------------------------------------------------------------------- |
@@ -11,15 +9,15 @@ Level Scale
 | High   | Be a professional. <br> Can select the best choice from several options. <br> Can teach and follow junior engineers. |
 | Super  | Nobody beats me.                                                                                                     |
 
-**Infra**
+## Cloud Platform
 
-| Service | Level  |
-| ------- | ------ |
-| AWS     | Medium |
-| GCP     | Medium |
-| Azure   | Low    |
+| Service               | Level  |
+| --------------------- | ------ |
+| Amazon Web Service    | Medium |
+| Google Cloud Platform | Medium |
+| Microsoft Azure       | Low    |
 
-**Languages**
+## Programming Languages
 
 | Language  | Level  |
 | --------- | ------ |
