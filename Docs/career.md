@@ -21,4 +21,4 @@
 | ------------------ | --------------------------- | ------- | ------- |
 | freee K.K          | Machine Learning Engineer   | 2017/08 | 2017/10 |
 | freee K.K          | Inside Sales Representative | 2017/03 | 2017/07 |
-| KONAKA 　 CO.,LTD. | Shop Clerk                  | 2015/12 | 2017/04 |
+| KONAKA CO.,LTD. | Shop Clerk                  | 2015/12 | 2017/04 |
