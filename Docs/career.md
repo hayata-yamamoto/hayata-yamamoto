@@ -4,11 +4,11 @@
 
 ## Full Timer
 
-| Campany     | Role                                   | From    | To      |
-| ----------- | -------------------------------------- | ------- | ------- |
-| RareJob.inc | Assistant Team Leader / Data Scientist | 2020/04 | Present |
-| RareJob.inc | Data Scientist                         | 2018/09 | 2020/03 |
-| 9DW corp.   | AI Engineer                            | 2017/10 | 2018/09 |
+| Campany     | Role                                      | From    | To      |
+| ----------- | ----------------------------------------- | ------- | ------- |
+| RareJob.inc | Assistant Team Leader <br> Data Scientist | 2020/04 | Present |
+| RareJob.inc | Data Scientist                            | 2018/09 | 2020/03 |
+| 9DW corp.   | AI Engineer                               | 2017/10 | 2018/09 |
 
 ## Contracter
 
