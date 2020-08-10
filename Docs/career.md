@@ -1,7 +1,5 @@
 # Career
 
-**Bold** company is my current devoted company.
-
 ## Full Timer
 
 | Campany     | Role                                      | From    | To      |
