@@ -1,35 +1,26 @@
 # Career
 
-## Data Scientist @[RareJob Inc.](https://www.rarejob.com/) (2018/09 ~ Now)
+**Bold** company is my current devoted company.
 
-- Chief Data Scientist at [EdTech Lab](https://www.rarejob.co.jp/lab/)
-- Tasks
-  - Team Buidling and Management
-  - Analyze production data
-  - Design table schema on DWH
-  - Develop machine learning engine
-  - Consult project related to data.
+## Full Timer
 
-## AI Engineer @[9DW corporation](https://9dw.jp/)
+| Campany     | Role                                   | From    | To      |
+| ----------- | -------------------------------------- | ------- | ------- |
+| RareJob.inc | Assistant Team Leader / Data Scientist | 2020/04 | Present |
+| RareJob.inc | Data Scientist                         | 2018/09 | 2020/03 |
+| 9DW corp.   | AI Engineer                            | 2017/10 | 2018/09 |
 
-- 2017/10 ~ 2018/09
-- Tasks
-  - Fashion image scoring engine
-  - Medical MRI calssification and annomaly detection
-  - Optimization by genetic algorithm
+## Contracter
 
-## (internship) Machine Learing Engineer @[freee K.K.](https://corp.freee.co.jp/)
+| Company | Role                       | From    | To      |
+| ------- | -------------------------- | ------- | ------- |
+| Aidemy  | Technical Support Engineer | 2018/12 | 2019/04 |
+| Klavis  | Machine Learning Engineer  | 2017/06 | 2017/09 |
 
-- 2017/08 ~ 2017/10
-- Tasks
-  - Text classification by python
-  - Data visualization by redash (SQL)
+## Internship & Part-timer
 
-## (internship) Inside Sales @[freee K.K.](https://corp.freee.co.jp/)
-
-- 2017/03 ~ 2017/07
-- **Got the best internship award**
-- Tasks
-  - Closing Sales
-  - On-boarding
-  - Dashboarding by salesforce
+| Company            | Role                        | From    | To      |
+| ------------------ | --------------------------- | ------- | ------- |
+| freee K.K          | Machine Learning Engineer   | 2017/08 | 2017/10 |
+| freee K.K          | Inside Sales Representative | 2017/03 | 2017/07 |
+| KONAKA 　 CO.,LTD. | Shop Clerk                  | 2015/12 | 2017/04 |

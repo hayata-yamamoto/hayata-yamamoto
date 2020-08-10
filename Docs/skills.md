@@ -1,42 +1,29 @@
-##Skills
+# Skills
 
 ## Engineering
 
-**Python**
+Level Scale
 
-- Statistics / statsmodels, sklearn, scipy
-- ML / TensorFlow, PyTorch, Chainer, Keras
-- Text / NLTK, SpaCy, StanfordNLP, CoreNLP
-- Image / OpenCV, skimage
-- Algorithm / Genetic Algorithm
-- Web / Django, FastAPI
-- Workflow Engine / Airflow
+| Level  | Meaining                                                                                                             |
+| ------ | -------------------------------------------------------------------------------------------------------------------- |
+| Low    | Be familiar. <br> Can read and write code in the repository                                                          |
+| Medium | Be understood. <br> Can review and refactor to other's requests.                                                     |
+| High   | Be a professional. <br> Can select the best choice from several options. <br> Can teach and follow junior engineers. |
+| Super  | Nobody beats me.                                                                                                     |
 
-**SQL**
+**Infra**
 
-- MySQL
-- BigQuery
+| Service | Level  |
+| ------- | ------ |
+| AWS     | Medium |
+| GCP     | Medium |
+| Azure   | Low    |
 
-**Infrastructure**
+**Languages**
 
-- Docker
-- Terraform
-
-**Platform**
-
-- AWS
-- GCP
-- Azure (limited)
-- Terraform Cloud (Private Use)
-
-**CI/CD**
-
-- CircleCI
-- GitHub Actions (Private Use)
-
-### Non Engineering
-
-**Sales**
-
-- Inside Sales
-- Sales force
+| Language  | Level  |
+| --------- | ------ |
+| Python    | High   |
+| Terraform | Medium |
+| R         | Medium |
+| Go        | Low    |
