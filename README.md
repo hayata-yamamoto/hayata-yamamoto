@@ -4,7 +4,7 @@
 
 ## Information
 
-- [Career]("./Docs/career.md")
-- [Media]("./Docs/media.md")
-- [Skills]("./Docs/skills.md")
-- [Works]("./Docs/works.md")
+- [Career](./Docs/career.md)
+- [Media](./Docs/media.md)
+- [Skills](./Docs/skills.md)
+- [Works](./Docs/works.md)
