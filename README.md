@@ -5,6 +5,6 @@
 ## Information
 
 - [Career](https://github.com/hayata-yamamoto/hayata-yamamoto/blob/master/Docs/career.md)
-- [Media](./Docs/media.md)
-- [Skills](./Docs/skills.md)
-- [Works](./Docs/works.md)
+- [Media](https://github.com/hayata-yamamoto/hayata-yamamoto/blob/master/Docs/media.md)
+- [Skills](https://github.com/hayata-yamamoto/hayata-yamamoto/blob/master/Docs/skills.md)
+- [Works](https://github.com/hayata-yamamoto/hayata-yamamoto/blob/master/Docs/works.md)
