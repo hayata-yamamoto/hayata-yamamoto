@@ -1,10 +1,40 @@
+# hayata-yamamoto
+
+## GitHub Profile
+
 ![hayata-yamamoto's github stats](https://github-readme-stats.vercel.app/api?username=hayata-yamamoto&count_private=true&theme=vue-dark&show_icon=true)
 
 ![hayaya-yamamoto's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hayata-yamamoto&count_private=true&theme=vue-dark&hide=jupyter%20notebook)
 
-## Information
+## Careers
 
-- [Career](https://github.com/hayata-yamamoto/hayata-yamamoto/blob/master/Docs/career.md)
-- [Media](https://github.com/hayata-yamamoto/hayata-yamamoto/blob/master/Docs/media.md)
-- [Skills](https://github.com/hayata-yamamoto/hayata-yamamoto/blob/master/Docs/skills.md)
-- [Works](https://github.com/hayata-yamamoto/hayata-yamamoto/blob/master/Docs/works.md)
+### Full Time
+
+| Campany      | Role                                      | From    | To      |
+| ------------ | ----------------------------------------- | ------- | ------- |
+| RareJob Inc. | Team Leader <br> Data Scientist           | 2020/10 | Present |
+| -            | Assistant Team Leader <br> Data Scientist | 2020/04 | 2020/09 |
+| -            | Data Scientist                            | 2018/09 | 2020/03 |
+| 9DW corp.    | AI Engineer                               | 2017/10 | 2018/09 |
+
+### Internship
+
+| Company   | Role                        | From    | To      |
+| --------- | --------------------------- | ------- | ------- |
+| freee K.K | Machine Learning Engineer   | 2017/08 | 2017/10 |
+| -         | Inside Sales Representative | 2017/03 | 2017/07 |
+
+## Media
+
+### Web
+
+- [レアジョブの技術的・データ的側面でのポテンシャルの話をしよう。語学学習のどんな未来を僕らは作れるか？](https://appeal.rarejob.co.jp/2021/03/24/7239/?fbclid=IwAR2yCVPYddss8SuCuRzKHycGinQ8dVGOQDoOGwY3mexgScF1H-PqA2IkE8A)
+- [人工知能を活用しスピーキング力を測定するサービス『PROGOS』誕生秘話、孤独な開発から全社プロジェクトへ。](https://appeal.rarejob.co.jp/2020/07/17/6880/)
+- [DMP で教育の未来を描く。「課題だらけ」の日々を乗り越えたチームが打つ、次の一手とは(前編)](https://appeal.rarejob.co.jp/2019/07/09/5936/)
+- [DMP で教育の未来を描く。「課題だらけ」の日々を乗り越えたチームが打つ、次の一手とは(後編)](https://appeal.rarejob.co.jp/2019/07/09/5960/)
+- [【データから見る英会話】日本人はネイティブと比べて頷きが多い話](https://appeal.rarejob.co.jp/2018/11/09/5034/)
+- [Business Insider Japan / ｢英会話はデータ戦略で変わる｣レアジョブがデータサイエンティスト採用を拡大する理由](https://www.businessinsider.jp/post-179154)
+
+### Books
+
+- [JobPicks 未来が描ける仕事図鑑](https://amzn.to/32Jeawf)
