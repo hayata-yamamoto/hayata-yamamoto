@@ -40,3 +40,8 @@
 ### Books
 
 - [JobPicks 未来が描ける仕事図鑑](https://amzn.to/32Jeawf)
+
+## Speak
+
+- [レアジョブの事例に学ぶ 今日から機械学習チームを始めるには!?](https://content.members.co.jp/?column=dev20200924)
+- [IT x 社会貢献 ～レアジョブ・メドピア 開発事例公開～](https://techplay.jp/event/745392)
