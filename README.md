@@ -28,7 +28,7 @@
 
 ### Web
 
-- [「Kaggle」の取り組みに見る、レアジョブ機械学習エンジニアの働き方](https://appeal.rarejob.co.jp/2021/06/18/7370/)
+- [「Kaggle」の取り組みに見る、レアジョブ機械学習エンジニアの働き方 / RareJob Appeal](https://appeal.rarejob.co.jp/2021/06/18/7370/)
 - [レアジョブの技術的・データ的側面でのポテンシャルの話をしよう。語学学習のどんな未来を僕らは作れるか？ / RareJob Appeal](https://appeal.rarejob.co.jp/2021/03/24/7239/?fbclid=IwAR2yCVPYddss8SuCuRzKHycGinQ8dVGOQDoOGwY3mexgScF1H-PqA2IkE8A)
 - [データサイエンティストの評価軸は技術以外に広がっていく - レアジョブ山本氏 / マイナビニュース](https://news.mynavi.jp/article/datascientist-3/)
 - [500円でAIが英会話力を自動採点、25歳のデータサイエンティストが語る開発最前線 / Business Insider Japan](https://www.businessinsider.jp/post-218852?fbclid=IwAR3viOmdMT_-H4PwzvuNrAswuI4-XLxD2fXzfSRk-WKcX8iCGBd1IU5CVzA)
