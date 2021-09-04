@@ -12,6 +12,7 @@
 
 | Campany      | Role                                      | From    | To      |
 | ------------ | ----------------------------------------- | ------- | ------- |
+| Todoker      | Product Manager                           | 2021/07 | Now     |
 | RareJob Inc. | Team Leader <br> Data Scientist           | 2020/10 | 2021/06 |
 | -            | Assistant Team Leader <br> Data Scientist | 2020/04 | 2020/09 |
 | -            | Data Scientist                            | 2018/09 | 2020/03 |
