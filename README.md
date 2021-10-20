@@ -23,9 +23,9 @@
 | freee K.K | Machine Learning Engineer   | 2017/08 | 2017/10 |
 | -         | Inside Sales Representative | 2017/03 | 2017/07 |
 
-## Media
+## Publicity 
 
-### Web
+### Web Media
 
 - [トドケールPdM山本氏が実践する「戦略的」副業のススメ](https://offers.jp/media/sidejob/workstyle/a_2077)
 - [「Kaggle」の取り組みに見る、レアジョブ機械学習エンジニアの働き方](https://appeal.rarejob.co.jp/2021/06/18/7370/)
@@ -46,7 +46,7 @@
 
 - [JobPicks 未来が描ける仕事図鑑](https://amzn.to/32Jeawf)
 
-## Speak
+### Presentation
 
 - [【LT満員御礼！】サーバーレス LT #r_serverlesslt](https://rakus.connpass.com/event/221200/)
 - [レアジョブの事例に学ぶ 今日から機械学習チームを始めるには!?](https://content.members.co.jp/?column=dev20200924)
