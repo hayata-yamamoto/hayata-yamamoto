@@ -27,6 +27,7 @@
 
 ### Web
 
+- [トドケールPdM山本氏が実践する「戦略的」副業のススメ](https://offers.jp/media/sidejob/workstyle/a_2077)
 - [「Kaggle」の取り組みに見る、レアジョブ機械学習エンジニアの働き方 / RareJob Appeal](https://appeal.rarejob.co.jp/2021/06/18/7370/)
 - [レアジョブの技術的・データ的側面でのポテンシャルの話をしよう。語学学習のどんな未来を僕らは作れるか？ / RareJob Appeal](https://appeal.rarejob.co.jp/2021/03/24/7239/?fbclid=IwAR2yCVPYddss8SuCuRzKHycGinQ8dVGOQDoOGwY3mexgScF1H-PqA2IkE8A)
 - [データサイエンティストの評価軸は技術以外に広がっていく - レアジョブ山本氏 / マイナビニュース](https://news.mynavi.jp/article/datascientist-3/)
@@ -37,11 +38,16 @@
 - [【データから見る英会話】日本人はネイティブと比べて頷きが多い話 / RareJob Appeal](https://appeal.rarejob.co.jp/2018/11/09/5034/)
 - [｢英会話はデータ戦略で変わる｣レアジョブがデータサイエンティスト採用を拡大する理由 / Business Insider Japan](https://www.businessinsider.jp/post-179154)
 
+## Press Release 
+
+- [データエンジニア育成強化に向け、データサイエンティストの山本 隼汰氏が技術顧問に就任](https://prtimes.jp/main/html/rd/p/000000169.000000106.html)
+
 ### Books
 
 - [JobPicks 未来が描ける仕事図鑑](https://amzn.to/32Jeawf)
 
 ## Speak
 
+- [【LT満員御礼！】サーバーレス LT #r_serverlesslt](https://rakus.connpass.com/event/221200/)
 - [レアジョブの事例に学ぶ 今日から機械学習チームを始めるには!?](https://content.members.co.jp/?column=dev20200924)
 - [IT x 社会貢献 ～レアジョブ・メドピア 開発事例公開～](https://techplay.jp/event/745392)
