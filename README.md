@@ -38,7 +38,7 @@
 - [【データから見る英会話】日本人はネイティブと比べて頷きが多い話](https://appeal.rarejob.co.jp/2018/11/09/5034/)
 - [｢英会話はデータ戦略で変わる｣レアジョブがデータサイエンティスト採用を拡大する理由](https://www.businessinsider.jp/post-179154)
 
-## Press Release 
+### Press Release 
 
 - [データエンジニア育成強化に向け、データサイエンティストの山本 隼汰氏が技術顧問に就任](https://prtimes.jp/main/html/rd/p/000000169.000000106.html)
 
