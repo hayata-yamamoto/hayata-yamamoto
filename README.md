@@ -23,6 +23,7 @@
 
 ### Web Media
 
+- [“自分の勝ちパターンをつくる”DAのデータ基盤構築研修とは？！](https://www.wantedly.com/companies/company_7316246/post_articles/376229)
 - [トドケールPdM山本氏が実践する「戦略的」副業のススメ](https://offers.jp/media/sidejob/workstyle/a_2077)
 - [「Kaggle」の取り組みに見る、レアジョブ機械学習エンジニアの働き方](https://appeal.rarejob.co.jp/2021/06/18/7370/)
 - [レアジョブの技術的・データ的側面でのポテンシャルの話をしよう。語学学習のどんな未来を僕らは作れるか？](https://appeal.rarejob.co.jp/2021/03/24/7239/?fbclid=IwAR2yCVPYddss8SuCuRzKHycGinQ8dVGOQDoOGwY3mexgScF1H-PqA2IkE8A)
