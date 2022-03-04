@@ -23,6 +23,7 @@
 
 ### Web Media
 
+- [成果発表会レポート！～何のために分析基盤を構築するのか～](https://www.wantedly.com/companies/company_7316246/post_articles/384644?fbclid=IwAR3ihAtmD4tpty_bz0aeZq0BNiAJYKFvspR2I7u7mLrycXJeaoZaGdUjoDA)
 - [“自分の勝ちパターンをつくる”DAのデータ基盤構築研修とは？！](https://www.wantedly.com/companies/company_7316246/post_articles/376229)
 - [トドケールPdM山本氏が実践する「戦略的」副業のススメ](https://offers.jp/media/sidejob/workstyle/a_2077)
 - [「Kaggle」の取り組みに見る、レアジョブ機械学習エンジニアの働き方](https://appeal.rarejob.co.jp/2021/06/18/7370/)
