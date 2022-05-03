@@ -2,7 +2,7 @@
 
 | Languages | Profile Stats |
 | --- | --- | 
-| ![hayaya-yamamoto's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hayata-yamamoto&count_private=true&theme=vue-dark&hide=jupyter%20notebook)| [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)| 
+| ![hayaya-yamamoto's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hayata-yamamoto&count_private=true&theme=vue-dark&hide=jupyter%20notebook)| [![trophy](https://github-profile-trophy.vercel.app/?username=hayata-yamamoto&column=2)](https://github.com/ryo-ma/github-profile-trophy)| 
 
 ## Careers
 
