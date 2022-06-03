@@ -10,7 +10,7 @@
 
 | Campany      | Role            | From    | To      |
 | ------------ | --------------- | ------- | ------- |
-| Todoker      | Product Manager | 2021/07 | Now     |
+| Todoker      | CTO | 2021/07 | Now     |
 | RareJob Inc. | Data Scientist  | 2018/09 | 2021/06 |
 | 9DW corp.    | AI Engineer     | 2017/10 | 2018/09 |
 
