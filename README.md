@@ -1,8 +1,11 @@
 # hayata-yamamoto
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hayata-yamamoto&hide=jupyter%20notebook&count_private=true&include_all_commits=true&show_icons=true)
+## SNS 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hayata-yamamoto&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+- [Twitter](https://twitter.com/hayata_yamamoto) 
+- [facebook](https://www.facebook.com/hayata.yamamoto) 
+- [YOUTRUST](https://youtrust.jp/users/hayata_yamamoto) 
+- [LinkedIn](https://www.linkedin.com/in/hayata-yamamoto/?original_referer=)
 
 ## Careers
 
@@ -51,3 +54,9 @@
 - [【LT満員御礼！】サーバーレス LT #r_serverlesslt](https://rakus.connpass.com/event/221200/)
 - [レアジョブの事例に学ぶ 今日から機械学習チームを始めるには!?](https://content.members.co.jp/?column=dev20200924)
 - [IT x 社会貢献 ～レアジョブ・メドピア 開発事例公開～](https://techplay.jp/event/745392)
+
+
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hayata-yamamoto&hide=jupyter%20notebook&count_private=true&include_all_commits=true&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hayata-yamamoto&column=4)](https://github.com/ryo-ma/github-profile-trophy)
