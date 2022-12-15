@@ -1,5 +1,7 @@
 # hayata-yamamoto
 
+## Profile
+
 https://hayata-yamamoto.notion.site/hayata-yamamoto/Biography-035771a70aa14e09b5f2a307d63c8e2e
 
 ## Stats
