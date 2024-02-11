@@ -14,6 +14,5 @@ Python
 - https://github.com/hayata-yamamoto/serverless-lambda-function-name-enum-python
 
 
-## Japanese Profile 
-See below 
-https://bit.ly/m/hayata-yamamoto
+## For Japanese
+See https://bit.ly/m/hayata-yamamoto
