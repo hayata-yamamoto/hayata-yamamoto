@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="public/hayata-yamamoto.jpg" alt="Hayata Yamamoto" width="150" style="border-radius: 50%;" />
 
   ## Hayata Yamamoto
 
