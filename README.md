@@ -1,23 +1,24 @@
-# hayata-yamamoto
+<div align="center">
+  <img src="public/hayata-yamamoto.jpg" alt="Hayata Yamamoto" width="150" style="border-radius: 50%;" />
 
-Personal profile page for Hayata Yamamoto.
+  ## Hayata Yamamoto
 
-https://hayata-yamamoto.github.io/hayata-yamamoto/
+  Founder of [Tied, Inc.](https://corp.tied-inc.com/) / [Rokuse LLC](https://rokuse.com/)
 
-## Tech Stack
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/hayata-yamamoto)
+  [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/hayata_yamamoto)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayata-yamamoto/)
+  [![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=white)](https://www.facebook.com/hayata.yamamoto/)
 
-- Vite + React + TypeScript
-- GitHub Actions + GitHub Pages
+  ---
 
-## Development
+  **[Profile Page](https://hayata-yamamoto.github.io/hayata-yamamoto/)**
 
-```bash
-bun install          # Install dependencies
-bun run dev          # Start dev server
-bun run build        # Type-check and build for production
-bun run preview      # Preview production build locally
-```
+</div>
 
-## Deployment
+### Company
 
-Push to `master` triggers GitHub Actions → builds with Vite → deploys to GitHub Pages.
+| | Description |
+|---|---|
+| [Tied, Inc.](https://corp.tied-inc.com/) | スタートアップから成長企業まで、技術戦略の策定から実装、チーム構築まで包括的にサポート。 |
+| [Rokuse LLC](https://rokuse.com/) | 日常を豊かに、鮮やかにする場づくりを行う会社です。 |
