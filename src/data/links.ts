@@ -33,7 +33,6 @@ export const sections: LinkSection[] = [
       {
         label: "Tied, Inc.",
         url: "https://corp.tied-inc.com/",
-        ogImage: "https://corp.tied-inc.com/opengraph-image?44df4bbee224c2ed",
         ogDescription:
           "スタートアップから成長企業まで、技術戦略の策定から実装、チーム構築まで包括的にサポート。",
       },
