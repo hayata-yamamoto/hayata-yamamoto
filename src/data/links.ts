@@ -31,16 +31,16 @@ export const sections: LinkSection[] = [
     title: "Company",
     links: [
       {
-        label: "Tied, Inc.",
+        label: "Tied, Inc. / Tied株式会社",
         url: "https://corp.tied-inc.com/",
         ogDescription:
-          "スタートアップから成長企業まで、技術戦略の策定から実装、チーム構築まで包括的にサポート。",
+          "スタートアップから投資家のみなさんまでを技術面でご支援する会社です",
       },
       {
-        label: "Rokuse LLC",
+        label: "Rokuse LLC / 六瀬合同会社",
         url: "https://rokuse.com/",
         ogDescription:
-          "日常を豊かに、鮮やかにする場づくりを行う会社です。",
+          "コミュニティ開発を中心にした、人と場づくりの会社です",
       },
     ],
   },
