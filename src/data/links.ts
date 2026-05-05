@@ -5,6 +5,7 @@ export const profile = {
 export type Link = {
   label: string;
   url: string;
+  role?: string;
   ogImage?: string;
   ogDescription?: string;
 };
@@ -33,12 +34,14 @@ export const sections: LinkSection[] = [
       {
         label: "Tied, Inc. / Tied株式会社",
         url: "https://corp.tied-inc.com/",
+        role: "代表取締役",
         ogDescription:
           "スタートアップから投資家のみなさんまでを技術面でご支援する会社です",
       },
       {
         label: "Rokuse LLC / 六瀬合同会社",
         url: "https://rokuse.com/",
+        role: "代表社員",
         ogDescription:
           "コミュニティ開発を中心にした、人と場づくりの会社です",
       },
